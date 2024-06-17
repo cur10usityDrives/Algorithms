@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms - DSA repo
 Repository for CS501: Practical Application of Algorithms projects
 Data Structures & Algorithms, DSA, Algorithms, Depth-First Search/Traversal (DFT/DFS), Breadth-First Search/Traversal (BFS/BFT)
 Binary Search Tree, Ternary Tree, Graphs
